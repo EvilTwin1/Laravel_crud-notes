@@ -14,4 +14,4 @@
 6. Реализация CRUD 
 
 # Пощупать руками
-  http://warm-lake-62390.herokuapp.com/
+  https://note-lms.herokuapp.com/
