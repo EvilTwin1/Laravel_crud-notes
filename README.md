@@ -1,8 +1,8 @@
 # Instalation 
-```php
+```
  docker compose up
  composer install
-  php artisan migrate
+ php artisan migrate
  php artisan db:seed
 ```
 ## Design feature
